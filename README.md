@@ -1,4 +1,7 @@
 ### Hi, I'm zkitty. 🐱
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndvYW1zMXN6c2diZHlmY29uaXJxY3J2YmJtMnNzejdjMzBrc2pldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOBXBL1YaPh07zgTEh/giphy.gif" width="200"/>
+</div>
 
 I'm a software engineer and cryptographic tech enthusiast.  
 I'm an owner of tech consultancy, [Cerberus Research](https://0xcerberus.io), and have delivered > 8 web3 applications for clients so far.
@@ -11,7 +14,7 @@ I'm standardizing the process and framework of testing suites for web3 applicati
 
 ### Collaboration to look for
 
-If you're a builder in web3 or a security specialist, feel free to take a look of [ContractAid](https://contractaid.io) and give me feedback!
+If you're a builder in web3 or a security specialist, feel free to take a look at [ContractAid](https://contractaid.io) and give me feedback!
 
 ### Ask me
 
