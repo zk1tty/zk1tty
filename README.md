@@ -25,17 +25,22 @@ Feel free to reach out to me as follows.
 - [Twitter](https://twitter.com/suricata3838)
 - [LinkedIn](https://www.linkedin.com/in/norika-kizawa/)
 
+<details>
+  <summary><h2>😌 Fun fact</h2></summary>
+  
+  - 💭 Background  
+  Please read my blog post about [philosophy](https://zkitty.me/from-theory-to-delivery).
+  
+  - 🌏 Being nomadic  
+  I'm originally from Tokyo, Japan.  
+  In the last half a year, I traveled to Lisbon in Portugal, Mexico City in Mexico, SF, and NYC in US.
+</details>
 
-
-### Fun fact
-- Background
-Please read my blog post about [philosophy](https://zkitty.me/from-theory-to-delivery).
-
-- Being nomadic 🌏  
-I'm originally from Tokyo, Japan.  
-In the last half a year, I traveled to Lisbon in Portugal, Mexico City in Mexico, SF, and NYC in US.
-
-<!--
+<details>
+  <summary><h2>📊 Stats</h2></summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zk1tty&theme=tokyonight&hide_border=true">
+</details>
+  <!--
 **zk1tty/zk1tty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
