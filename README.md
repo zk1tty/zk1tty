@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm zkitty. 🐱
 
+I'm a software engineer and cryptographic tech enthosiast.  
+I'm a owner of tech consultancy, [Cerberus Research](https://0xcerberus.io), and delivered > 8 web3 applications for clinets so far.
+
+### Current Product 
+
+Working on a security tool suite [ContractAid](https://contractaid.io), which covers the security vunerability of web3 application development. 
 <!--
 **zk1tty/zk1tty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
