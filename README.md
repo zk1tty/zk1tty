@@ -21,8 +21,8 @@ If you're a builder in web3 or a security specialist, feel free to take a look a
 ### Ask me
 
 Feel free to reach out to me as follows.
-- [Telegram](https://t.me/suricata3838)
-- [Twitter](https://twitter.com/suricata3838)
+- [Telegram](https://t.me/n0rizkitty)
+- [Twitter](https://twitter.com/n0rizkitty)
 - [LinkedIn](https://www.linkedin.com/in/norika-kizawa/)
 
 <details>
