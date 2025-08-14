@@ -1,23 +1,16 @@
 ### Hi, I'm zkitty. 🐱
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndvYW1zMXN6c2diZHlmY29uaXJxY3J2YmJtMnNzejdjMzBrc2pldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOBXBL1YaPh07zgTEh/giphy.gif" width="250"/>
-</div>
 
+Welcome to my page.   
+I like building and desgining softwares.   
 ![](https://komarev.com/ghpvc/?username=zk1tty&color=ff69b4&style=for-the-badge)
 
-I'm a software engineer and cryptographic tech enthusiast.  
-I'm an owner of tech consultancy, [Cerberus Research](https://0xcerberus.io), and have delivered > 8 web3 applications for clients so far.
+### Current Product
 
-### Current Product 
+My current main product: [Rebrowse.me](https://rebrowse.me)
 
-Working on a security tool suite [ContractAid](https://contractaid.io), which covers the security vulnerability of web3 application development.  
-I'm standardizing the process and framework of testing suites for web3 applications in a way of [Checklist](https://github.com/zk1tty/Solidity-Security-Checklist).
+![demo-grok-post-hd](https://github.com/user-attachments/assets/3698b7ff-984f-4ae3-88f6-b745355ef3af)
 
-
-### Collaboration to look for
-
-If you're a builder in web3 or a security specialist, feel free to take a look at [ContractAid](https://contractaid.io) and give me feedback!
-
+Know more from [the rebrowse repo](https://github.com/zk1tty/rebrowse-app)
 ### Ask me
 
 Feel free to reach out to me as follows.
