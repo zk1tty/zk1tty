@@ -8,6 +8,8 @@ I like building and desgining softwares.
 
 My current main product: [Rebrowse.me](https://rebrowse.me)
 
+"No more prompt. Just record and share the workflow to your friends."
+
 ![demo-grok-post-hd](https://github.com/user-attachments/assets/3698b7ff-984f-4ae3-88f6-b745355ef3af)
 
 Know more from [the rebrowse repo](https://github.com/zk1tty/rebrowse-app)
