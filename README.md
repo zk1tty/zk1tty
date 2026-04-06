@@ -1,4 +1,4 @@
-### Hi, I'm zkitty. 🐱
+### Hello, I'm Nori. 🐱
 
 Welcome to my page.   
 I like building and desgining softwares.   
