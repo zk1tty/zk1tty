@@ -4,15 +4,19 @@ Welcome to my page.
 I like building and desgining softwares.   
 ![](https://komarev.com/ghpvc/?username=zk1tty&color=ff69b4&style=for-the-badge)
 
-### Current Product
+## My core interest
 
-My current main product: [Rebrowse.me](https://rebrowse.me)
+### Projects
 
-"No more prompt. Just record and share the workflow to your friends."
+- Dive: framework to utilize coding agents to browse user-authenticated websites.
+deterministic browser automation that works for anti-bot protected websites. e.g. Fidelity, Bank of America.   
+  - Data extraction
+  - Data input
 
-![demo-grok-post-hd](https://github.com/user-attachments/assets/3698b7ff-984f-4ae3-88f6-b745355ef3af)
+here is the test result of CAPTHA resovler we use.
+<img width="758" alt="Claudeflare-Turnstile-frames" src="https://github.com/user-attachments/assets/629c1e59-fcaa-460d-9cd4-60903edc7e67" />
 
-Know more from [the rebrowse repo](https://github.com/zk1tty/rebrowse-app)
+
 ### Ask me
 
 Feel free to reach out to me as follows.
