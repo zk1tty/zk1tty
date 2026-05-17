@@ -8,7 +8,7 @@ I like building and desgining softwares.
 
 ### Projects
 
-- Dive: "How to utilize coding agents to browse user-authenticated websites?"
+- Rebrowse: "How to utilize coding agents to browse user-authenticated websites?"
 
 Deterministic browser automation that works for anti-bot protected websites.   
 e.g. Fidelity, Bank of America.   
