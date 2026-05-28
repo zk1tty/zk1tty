@@ -8,15 +8,17 @@ I like building and desgining softwares.
 
 ### Projects
 
-- Rebrowse: "How to utilize coding agents to browse user-authenticated websites?"
+- [LoginRun](https://github.com/zk1tty/login-run): "How to utilize coding agents to browse user-authenticated websites?"
 
 Deterministic browser automation that works for anti-bot protected websites.   
 e.g. Fidelity, Bank of America.   
   - Data extraction
   - Data input
+<a href="https://www.youtube.com/watch?v=nSqYzkXConc">
+  <img src="https://github.com/user-attachments/assets/cb342113-7ad2-4467-a335-6ce26e71d67d" alt="Login Run demo" width="75%">
+</a>
 
-Here is the test result of CAPTHA resovler we use.
-<img width="758" alt="Claudeflare-Turnstile-frames" src="https://github.com/user-attachments/assets/629c1e59-fcaa-460d-9cd4-60903edc7e67" />
+- [Rebrowse](https://github.com/zk1tty/rebrowse-app): Deterministic Browser automation by just recording your move.
 
 
 ### Contract me
