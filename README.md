@@ -8,14 +8,8 @@ I like building and desgining softwares.
 
 #### 1. [LoginRun](https://github.com/zk1tty/login-run)
 
-"How to utilize coding agents to browse user-authenticated websites?"
-
-  Deterministic browser automation infrastructure that works for anti-bot heavy websites.   
-  Introducing code-geenration framework to achieve specific browser automation in comperason to agent-dirven worklfow automation.
-  
-  e.g. Fidelity, Bank of America.   
-    - Data extraction after login gateway   
-    - Data input after login gateway   
+1. *LoginRun* — minimal API to log into anti-bot-heavy web portals and maintain authenticated session state, with verified speed.
+2. *LoginRun Codegen(coming soon)* — anget loop that uses coding agents to generate and validate deterministic browser automation flows in popular libraries e.g. Playwirght, Puppeteer
 
   <a href="https://www.youtube.com/watch?v=nSqYzkXConc">
     <img src="https://github.com/user-attachments/assets/cb342113-7ad2-4467-a335-6ce26e71d67d" alt="Login Run demo" width="75%">
