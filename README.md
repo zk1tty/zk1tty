@@ -12,7 +12,7 @@ I like building and desgining softwares.
 2. *LoginRun Codegen(coming soon)* — anget loop that uses coding agents to generate and validate deterministic browser automation flows in popular libraries e.g. Playwirght, Puppeteer
 
   <a href="https://www.youtube.com/watch?v=nSqYzkXConc">
-    <img src="https://github.com/user-attachments/assets/cb342113-7ad2-4467-a335-6ce26e71d67d" alt="Login Run demo" width="75%">
+    <img src="https://github.com/user-attachments/assets/5fb3f9a6-9b51-42b2-831d-884de2721201" alt="Login Run demo" width="75%">
   </a>
 
 
