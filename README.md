@@ -11,8 +11,12 @@ I like building and desgining softwares.
 1. *LoginRun* — minimal API to log into anti-bot-heavy web portals and maintain authenticated session state, with verified speed.
 2. *LoginRun Codegen(coming soon)* — anget loop that uses coding agents to generate and validate deterministic browser automation flows in popular libraries e.g. Playwirght, Puppeteer
 
+> [!TIP]
+> **Result:** HealthEquity login beacme now **3x faster** — from **85 seconds** to **24 seconds**.
+> So clients can integrate login workflow synchronously!
+
   <a href="https://www.youtube.com/watch?v=nSqYzkXConc">
-    <img src="https://github.com/user-attachments/assets/5fb3f9a6-9b51-42b2-831d-884de2721201" alt="Login Run demo" width="75%">
+    <img src="https://github.com/user-attachments/assets/5fb3f9a6-9b51-42b2-831d-884de2721201" alt="Login Run demo" >
   </a>
 
 
