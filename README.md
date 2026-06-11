@@ -30,7 +30,7 @@ It's officially implemented in Chrome Canary.
 This video is a general showcase of how an embedded agent (the MCP client) can control a website via WebMCP hosted by that website.
 
 Architectural details and constraints are covered in another blog post.
-<a href="https://www.youtube.com/watch?v=nSqYzkXConc" >
+<a href="https://www.youtube.com/watch?v=eLFKH_c8rWs" >
   <img width="1266" height="668" alt="Screenshot 2026-06-10 at 7 36 36 PM" src="https://github.com/user-attachments/assets/6270ba44-3e66-416f-939e-e80d0351b695" />
 </a>
  
