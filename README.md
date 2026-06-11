@@ -25,7 +25,7 @@ The biggest problem: so far, the only way to automate website operations is to m
 
 [WebMCP](https://github.com/webmachinelearning/webmcp) solves this. It's a new Browser API that lets website owners expose their client-side JavaScript functionality directly to external AI agents as structured MCP tools.
 
-It's officially implemented in Chrome Canary.
+It's officially available in commertial [Chrome 146 Canary](https://www.google.com/chrome/canary/).
 
 This video is a general showcase of how an embedded agent (the MCP client) can control a website via WebMCP hosted by that website.
 
