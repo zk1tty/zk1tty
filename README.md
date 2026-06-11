@@ -19,8 +19,22 @@ I like building and desgining softwares.
     <img src="https://github.com/user-attachments/assets/5fb3f9a6-9b51-42b2-831d-884de2721201" alt="Login Run demo" >
   </a>
 
+### 2. WebMCP showcase and real usecase in Commercial Ads Format
 
-### 2. [Rebrowse](https://github.com/zk1tty/rebrowse-app)
+The biggest problem: so far, the only way to automate website operations is to mimic the clicks and mouse movements on elements designed for humans.
+
+WebMCP solves this. It's a new Browser API that lets website owners expose their client-side JavaScript functionality directly to external AI agents as structured MCP tools.
+
+It's officially implemented in Chrome Canary.
+
+This video is a general showcase of how an embedded agent (the MCP client) can control a website via WebMCP hosted by that website.
+
+Architectural details and constraints are covered in another blog post.
+<a href="https://www.youtube.com/watch?v=nSqYzkXConc" >
+  <img width="1266" height="668" alt="Screenshot 2026-06-10 at 7 36 36 PM" src="https://github.com/user-attachments/assets/6270ba44-3e66-416f-939e-e80d0351b695" />
+</a>
+ 
+### 3. [Rebrowse](https://github.com/zk1tty/rebrowse-app)
 Deterministic Browser automation by just recording your move.
 <img width="800" height="453" alt="preview-demo" src="https://github.com/user-attachments/assets/43639988-c4e0-4ccc-9fb1-eca11f148dcb" />
 
