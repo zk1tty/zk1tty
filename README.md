@@ -23,7 +23,7 @@ I like building and desgining softwares.
 
 The biggest problem: so far, the only way to automate website operations is to mimic the clicks and mouse movements on elements designed for humans.
 
-WebMCP solves this. It's a new Browser API that lets website owners expose their client-side JavaScript functionality directly to external AI agents as structured MCP tools.
+[WebMCP](https://github.com/webmachinelearning/webmcp) solves this. It's a new Browser API that lets website owners expose their client-side JavaScript functionality directly to external AI agents as structured MCP tools.
 
 It's officially implemented in Chrome Canary.
 
