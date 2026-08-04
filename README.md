@@ -18,7 +18,7 @@ I love building and designing software to solve the real-world problem.
     <img src="https://github.com/user-attachments/assets/5fb3f9a6-9b51-42b2-831d-884de2721201" alt="Login Run demo" >
   </a>
 
-### 2. WebMCP showcase and real use case in Commercial Ads Format
+### 2. WebMCP showcase
 
 The biggest problem: so far, the only way to automate website operations is to mimic the clicks and mouse movements on elements designed for humans.
 
