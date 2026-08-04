@@ -1,8 +1,8 @@
 ### Hello, I'm Nori. 🐱
 
 Welcome to my page.   
-I like bulding and designing softwares.   
-![](https://komarev.com/ghpvc/?username=zk1tty&color=ff69b4&style=for-the-badge)
+I love bulding and designing softwares.   
+Doing this for the last 10 years.
 
 ## My Latest Projects
 
