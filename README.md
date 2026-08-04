@@ -1,15 +1,15 @@
 ### Hello, I'm Nori. 🐱
 
 Welcome to my page.   
-I like building and desgining softwares.   
+I like bulding and designing softwares.   
 ![](https://komarev.com/ghpvc/?username=zk1tty&color=ff69b4&style=for-the-badge)
 
 ## My Latest Projects
 
 #### 1. [LoginRun](https://github.com/zk1tty/login-run)
 
-1. *LoginRun* — minimal API to log into anti-bot-heavy web portals and maintain authenticated session state, with verified speed.
-2. *LoginRun Codegen(coming soon)* — anget loop that uses coding agents to generate and validate deterministic browser automation flows in popular libraries e.g. Playwirght, Puppeteer
+1. *LoginRun* — minimal API to log in anti-bot gated web portals, and maintain authenticated session state with verified speed.
+2. *LoginRun Codegen)* — agent loop that lets coding agents to generate and validate deterministic browser automation with minimal context size.
 
 > [!TIP]
 > **Result:** HealthEquity login beacme now **3x faster** — from **85 seconds** to **24 seconds**.
