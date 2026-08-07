@@ -5,7 +5,7 @@ I love building and designing software to solve the real-world problem.
 
 ## My Latest Projects
 
-#### 1. [LoginRun](https://github.com/zk1tty/login-run)
+#### 1. [LoginRun](https://github.com/zk1tty/login-run): Auth Gateway for non-OAuth sites
 
 1. *LoginRun* — minimal API to log in anti-bot-gated web portals, and maintain authenticated session state with verified speed.
 2. *LoginRun Codegen* — agent loop that lets coding agents generate and validate deterministic browser automation with minimal context size.
